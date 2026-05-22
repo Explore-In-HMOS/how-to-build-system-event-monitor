@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "System Event Monitor entry module"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "System Event Monitor"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "System Event Monitor"
+    }
+  ]
+}
